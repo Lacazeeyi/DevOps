@@ -4,3 +4,4 @@ Git is in trouble
 Davic don show
 Na me be the Boss of all Bosses
 They dunno
+GUI looks a lot better
